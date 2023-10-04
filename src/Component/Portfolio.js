@@ -17,7 +17,9 @@ class Portfolio extends Component {
                         style={{left: "50%"}}
                     >
                         <Zmage alt={projects.title} src={projectImage} />
-                        <div style={{textAlign: "center"}}>{projects.title}</div>
+                        <div style={{textAlign: "center"}}>
+                            <a href={projects.url} style={{color: 'black'}}>{projects.title}</a>
+                        </div>
                     </div>
                 </div>
             );
