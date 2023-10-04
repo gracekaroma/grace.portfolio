@@ -1,0 +1,128 @@
+{
+    "main": {
+        "name": "Grace Imanuela Ruttun Karoma",
+        "description": "I am frontend Developer",
+        "image": "profilepic.jpg",
+        "github": "https://github.com/gracekaroma",
+        "project": "https://github.com/gracekaroma",
+        "bio": "Graduate of S1 Informatics Engineering from Satya Wacana Christian University. Have an interest in the field web development specifically frontend developer and UI / UX Designer. Have 6 months practical work experience in the field of web development. I enjoy world web development and am still continuing to learn it.",
+        "contactmessage": "Hello, here I am",
+        "email": "gracekaroma21@gmail.com",
+        "phone": "0821-8945-3367",
+        "address": {
+            "street": "Citra Sudiang Estate D2/28",
+            "city": "Salatiga",
+            "state": "Central Java"
+        },
+        "website": "https://github.com/gracekaroma",
+        "resumedownload": "https://github.com/gracekaroma",
+        "social": [
+            {
+                "name": "facebook",
+                "url": "https://www.facebook.com/gracekaroma21",
+                "className": "fa fa-facebook"
+            },
+            {
+                "name": "twitter",
+                "url": "https://twitter.com/GraceImanu99034",
+                "className": "fa fa-twitter"
+            },
+            {
+                "name": "linkedin",
+                "url": "https://www.linkedin.com/in/grace-imanuella-r-401a37105/",
+                "className": "fa fa-linkedin"
+            },
+            {
+                "name": "instagram",
+                "url": "https://www.instagram.com/grace_imannuella/",
+                "className":"fa fa-instagram"
+            },
+            {
+                "name": "github",
+                "url": "https://github.com/gracekaroma",
+                "className": "fa fa-github"
+            }
+        ]
+    },
+    "resume": {
+        "skillmessage": "Here is some of my skills",
+        "education": [
+            {
+                "school": "Universitas Kristen Satya Wacana",
+                "degree": "Bachelor degree of Computer Science",
+                "graduated": "14 Oktober 2023",
+                "description": "I am joining Senat Mahasiswa Universitas" 
+            },
+            {
+                "school": "SMA Kristen YHS Makassar",
+                "degree": "Science",
+                "graduated": "June 2019",
+                "description": "I am joining student organization (OSIS)"
+            }
+        ],
+        "work": [
+            {
+                "company": "PT. KreasiX Salatiga",
+                "title": "Intern Website Developer",
+                "years": "August 2022 - May 2023",
+                "description": "Creating a Profile Company Website from KreasiX client"
+            },
+            {
+                "company": "Senat Mahasiswa Universitas 2021",
+                "title": "Member Of Leadership Department",
+                "years": "January - December 2021",
+                "description": "Creating leadership program for Satya Wacana Christian University students"
+            },
+            {
+                "company": "Senat Mahasiswa Universitas 2022",
+                "title": "Secretary Of Division III",
+                "years": "January - December 2021",
+                "description": "Responsible for checking and collecting activity records and letters"
+            }
+        ],
+        "skills": [
+            {
+                "name": "HTML",
+                "level": "80%"
+            },
+            {
+                "name": "CSS",
+                "level": "80%"
+            },
+            {
+                "name": "Microsoft Power Point",
+                "level": "80%"
+            },
+            {
+                "name": "Microsoft Word",
+                "level": "60%"
+            },
+            {
+                "name": "ReactJS",
+                "level": "30%"
+            }
+        ]
+    },
+    "portfolio": {
+        "projects": [
+            {
+                "title": "Bloomers",
+                "category": "My Web Show Personal Project",
+                "image": "02.jpg",
+                "url": "https://www.canadianwanderlust.com"
+            },
+            {
+                "title": "Rhubarb Inc.",
+                "category": "My Web Music Shop Personal Project",
+                "image": "03.jpg",
+                "url": "https://www.timbakerdev.com"
+            },
+            {
+                "title": "Northern Signs",
+                "category": "My Web Book Shop Personal Project",
+                "image": "01.jpg",
+                "url": "https://www.timbakerdev.com"
+            }
+        ]
+    }
+}
