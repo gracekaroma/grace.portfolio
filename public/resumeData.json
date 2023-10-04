@@ -15,7 +15,7 @@
             "state": "Central Java"
         },
         "website": "https://github.com/gracekaroma",
-        "resumedownload": "https://github.com/gracekaroma",
+        "resumedownload": "cv-grace.pdf",
         "social": [
             {
                 "name": "facebook",
@@ -109,19 +109,19 @@
                 "title": "Bloomers",
                 "category": "My Web Show Personal Project",
                 "image": "02.jpg",
-                "url": "https://www.canadianwanderlust.com"
+                "url": "https://bloomers-apps.vercel.app/"
             },
             {
                 "title": "Rhubarb Inc.",
                 "category": "My Web Music Shop Personal Project",
                 "image": "03.jpg",
-                "url": "https://www.timbakerdev.com"
+                "url": "https://rhubarb-inc-apps.vercel.app/"
             },
             {
                 "title": "Northern Signs",
                 "category": "My Web Book Shop Personal Project",
                 "image": "01.jpg",
-                "url": "https://www.timbakerdev.com"
+                "url": "https://northern-signs-apps.vercel.app/"
             }
         ]
     }
